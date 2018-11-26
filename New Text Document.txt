@@ -1,0 +1,17 @@
+index_features:
+#image ID
+# output cannot be used for next input
+# read FeatureIndexer
+
+cluster_features:
+# make your own vocabulary
+
+extract_bovw:
+# make your own BagOfVisualWords
+# make your own BOVWIndexer
+
+train_model:
+# how to apply SVM
+# use grid to improve accuracy
+
+make all of the code in one file
